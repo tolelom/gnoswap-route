@@ -168,3 +168,6 @@ func (a AlphaRouter) run() {
 	fmt.Println("Alpha router run")
 }
 
+// 더 봐야 알겠지만 원본 코드 기준 중복이 되게 많다고 느껴진다.
+// 용어를 몰라서 해매는게 열받는다...
+// go와 친해지길 바래
